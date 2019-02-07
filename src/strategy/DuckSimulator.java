@@ -11,6 +11,7 @@ public class DuckSimulator {
         duck1.performQuack();
         duck1.performFly();
         System.out.println("---------");
+        // Setting behavior dynamically
         duck1.setFlyBehavior(new FlyRocketPowered());
         duck1.performFly();
     }
