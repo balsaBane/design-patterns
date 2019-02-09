@@ -1,6 +1,6 @@
 package singleton.classic;
 
-public class ChocolateBoiler {
+public final class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
     public ChocolateBoiler chocolateBoiler;
