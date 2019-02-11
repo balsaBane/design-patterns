@@ -1,6 +1,4 @@
-package command.RemoteControl;
-
-import command.RemoteControl.Command;
+package command.remoteControl;
 
 public class NoCommand implements Command {
 

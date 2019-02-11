@@ -1,4 +1,4 @@
-package command.RemoteControl;
+package command.remoteControl;
 
 public class GarageDoorDownCommand implements Command {
     GarageDoor garageDoor;
